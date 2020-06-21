@@ -1,0 +1,163 @@
+.slogan {
+    line-height: 0px;
+    font-style: italic;
+    font-family: cursive;
+    color: #214f23;
+    //color: #2e2aa3;
+}
+
+.address {
+    font-family: Arial, sans-serif;
+    color: #0b0a29;
+}
+
+.slogan, .address {
+    text-align: center;
+}
+
+.nav {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    line-height: 40px;
+    background-color: lightgreen;
+    margin: 1%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 10px;
+}
+
+
+.logo_main{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45px;
+    float: right;
+    padding-top: 3px;
+    border-radius: 10px;
+    padding-right: 4px;
+}
+
+.address, h2 {
+    line-height: 5px;
+    font-weight: bold;
+}
+
+.bottom {
+    padding: 2%;
+    line-height: 15px;
+    background-color: lightgreen;
+    margin: 5%;
+    border-radius: 10px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+.center {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.pfoods {
+    background-color: white;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.pfoods_2 {
+    background-color: white;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.about_us {
+    padding: 2%;
+    line-height: 15px;
+    background-color: lightgreen;
+    margin: 5%;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+
+.policy {
+    padding: 2%;
+    line-height: 15px;
+    background-color: lightgreen;
+    margin: 5%;
+}
+
+.page_header {
+    //background-color:#3d3b8f;
+    background-color: #2c6b2e; 
+    padding: 2px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.company_name {
+    font-family: Arial, sans-serif;
+    padding-left: 17px;
+    line-height: 10px;
+    color: #ffffff;
+    display: inline-block;
+}
+
+.company_name:hover {
+    color: lightslategrey;
+}
+
+a:hover{
+    color: white;
+}
+
+body {
+    //background-color: #729de8;
+    background-color: #6ec271;
+}
+
+.newspaper{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color:lightslategray;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+}
+
+.in_text_bold {
+    font-weight: bold;
+}
+
+.about_pic{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
